@@ -77,7 +77,7 @@ const HeroSection: React.FC = () => {
           <div className="md:col-span-7 space-y-6">
             <div className="space-y-4">
               <span className="inline-block text-xs uppercase tracking-widest py-1 px-3 border border-current">
-                Design Philosophy
+                Company Philosophy
               </span>
               <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-light leading-none tracking-tight">
                 <AnimatedText
